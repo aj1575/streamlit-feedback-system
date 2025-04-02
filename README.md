@@ -38,6 +38,8 @@ This project enhances customer engagement by collecting valuable feedback while 
    streamlit run app.py
    ```
 
+
+
 ## 📌 Features
 - 🔐 **Admin Login**: Secure authentication for inventory management
 - 🏷️ **Product Inventory Management**: Add and delete products easily
